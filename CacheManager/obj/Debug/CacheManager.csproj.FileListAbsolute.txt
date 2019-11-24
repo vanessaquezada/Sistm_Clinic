@@ -1,0 +1,112 @@
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\bin\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\bin\Debug\CacheManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\obj\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\CacheManager\obj\Debug\CacheManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\bin\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\bin\Debug\CacheManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\obj\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\CacheManager\obj\Debug\CacheManager.pdb
+E:\DSII\Sistema 03-04\CacheManager\bin\Debug\CacheManager.dll
+E:\DSII\Sistema 03-04\CacheManager\bin\Debug\CacheManager.pdb
+E:\DSII\Sistema 03-04\CacheManager\bin\Debug\DataLayer.dll
+E:\DSII\Sistema 03-04\CacheManager\bin\Debug\DataLayer.pdb
+E:\DSII\Sistema 03-04\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+E:\DSII\Sistema 03-04\CacheManager\obj\Debug\CacheManager.dll
+E:\DSII\Sistema 03-04\CacheManager\obj\Debug\CacheManager.pdb
+F:\Sistema 03-04\CacheManager\bin\Debug\CacheManager.dll
+F:\Sistema 03-04\CacheManager\bin\Debug\CacheManager.pdb
+F:\Sistema 03-04\CacheManager\bin\Debug\DataLayer.dll
+F:\Sistema 03-04\CacheManager\bin\Debug\DataLayer.pdb
+F:\Sistema 03-04\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+F:\Sistema 03-04\CacheManager\obj\Debug\CacheManager.dll
+F:\Sistema 03-04\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\CacheManager\obj\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\CacheManager\obj\Debug\CacheManager.pdb

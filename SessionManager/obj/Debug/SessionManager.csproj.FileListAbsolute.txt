@@ -1,0 +1,35 @@
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\SessionManager\bin\Debug\SessionManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\SessionManager\bin\Debug\SessionManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\SessionManager\obj\Debug\SessionManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\SessionManager\obj\Debug\SessionManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\SessionManager\bin\Debug\SessionManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\SessionManager\bin\Debug\SessionManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\SessionManager\obj\Debug\SessionManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\SessionManager\obj\Debug\SessionManager.pdb
+E:\DSII\Sistema 03-04\SessionManager\bin\Debug\SessionManager.dll
+E:\DSII\Sistema 03-04\SessionManager\bin\Debug\SessionManager.pdb
+E:\DSII\Sistema 03-04\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+E:\DSII\Sistema 03-04\SessionManager\obj\Debug\SessionManager.dll
+E:\DSII\Sistema 03-04\SessionManager\obj\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\SessionManager\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\SessionManager\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\SessionManager\obj\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\SessionManager\obj\Debug\SessionManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\SessionManager\bin\Debug\SessionManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\SessionManager\bin\Debug\SessionManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\SessionManager\obj\Debug\SessionManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\SessionManager\obj\Debug\SessionManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\SessionManager\bin\Debug\SessionManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\SessionManager\bin\Debug\SessionManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\SessionManager\obj\Debug\SessionManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\SessionManager\obj\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\SessionManager\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\SessionManager\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\SessionManager\obj\Debug\SessionManager.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\SessionManager\obj\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\SessionManager\obj\Debug\SessionManager.pdb

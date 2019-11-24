@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{094C3997-71D6-4B08-B33A-FDCAE8DC69F2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ModGestionBasica</RootNamespace>
+    <AssemblyName>ModGestionBasica</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLS\Consultas.cs" />
+    <Compile Include="CLS\Doctoress.cs" />
+    <Compile Include="CLS\Empleado.cs" />
+    <Compile Include="CLS\Especialidad.cs" />
+    <Compile Include="CLS\exitencias.cs" />
+    <Compile Include="CLS\expedientes.cs" />
+    <Compile Include="CLS\Expedientes_recetas.cs" />
+    <Compile Include="CLS\Ficha_citas.cs" />
+    <Compile Include="CLS\Grupos.cs" />
+    <Compile Include="CLS\Medicina.cs" />
+    <Compile Include="CLS\Opcioness.cs" />
+    <Compile Include="CLS\Pacientes.cs" />
+    <Compile Include="CLS\permisos.cs" />
+    <Compile Include="CLS\recetas_medicas.cs" />
+    <Compile Include="CLS\responsable_paciente.cs" />
+    <Compile Include="CLS\usuarios.cs" />
+    <Compile Include="DAT\DataSet.cs">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAT\DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Consultas_\EdicionConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Consultas_\EdicionConsulta.Designer.cs">
+      <DependentUpon>EdicionConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Consultas_\GestionConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Consultas_\GestionConsultas.Designer.cs">
+      <DependentUpon>GestionConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Doctores\EdicionDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Doctores\EdicionDoctor.Designer.cs">
+      <DependentUpon>EdicionDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Doctores\GestionDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Doctores\GestionDoctores.Designer.cs">
+      <DependentUpon>GestionDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Empleadosss\EdicionEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Empleadosss\EdicionEmpleado.Designer.cs">
+      <DependentUpon>EdicionEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Empleadosss\GestionEMpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Empleadosss\GestionEMpleados.Designer.cs">
+      <DependentUpon>GestionEMpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Especialidades\EdicionEspecialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Especialidades\EdicionEspecialidades.Designer.cs">
+      <DependentUpon>EdicionEspecialidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Especialidades\GestionEspecialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Especialidades\GestionEspecialidades.Designer.cs">
+      <DependentUpon>GestionEspecialidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Existencias_\EdicionExistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Existencias_\EdicionExistencia.Designer.cs">
+      <DependentUpon>EdicionExistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Existencias_\GestionExistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Existencias_\GestionExistencias.Designer.cs">
+      <DependentUpon>GestionExistencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\expedientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\expedientes.Designer.cs">
+      <DependentUpon>expedientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\expedientes_recetas_\Edicionexpediente_recetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\expedientes_recetas_\Edicionexpediente_recetas.Designer.cs">
+      <DependentUpon>Edicionexpediente_recetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\expedientes_recetas_\GestionExpedientes_Recetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\expedientes_recetas_\GestionExpedientes_Recetas.Designer.cs">
+      <DependentUpon>GestionExpedientes_Recetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Expedientes_\EdicionExpediente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Expedientes_\EdicionExpediente.Designer.cs">
+      <DependentUpon>EdicionExpediente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Expedientes_\GestionExpedientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Expedientes_\GestionExpedientes.Designer.cs">
+      <DependentUpon>GestionExpedientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Fecha_Citas\EdicionCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Fecha_Citas\EdicionCitas.Designer.cs">
+      <DependentUpon>EdicionCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Fecha_Citas\GestionFechaCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Fecha_Citas\GestionFechaCitas.Designer.cs">
+      <DependentUpon>GestionFechaCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Grupos\EdicionGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Grupos\EdicionGrupo.Designer.cs">
+      <DependentUpon>EdicionGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Grupos\GestionGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Grupos\GestionGrupos.Designer.cs">
+      <DependentUpon>GestionGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Medecinas\EdicionMedecina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Medecinas\EdicionMedecina.Designer.cs">
+      <DependentUpon>EdicionMedecina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Medecinas\GestionMedecinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Medecinas\GestionMedecinas.Designer.cs">
+      <DependentUpon>GestionMedecinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\medicinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\medicinas.Designer.cs">
+      <DependentUpon>medicinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Opciones\EdicionOpcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Opciones\EdicionOpcion.Designer.cs">
+      <DependentUpon>EdicionOpcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Opciones\GestionOpciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Opciones\GestionOpciones.Designer.cs">
+      <DependentUpon>GestionOpciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pacientes_\EdicionPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Pacientes_\EdicionPaciente.Designer.cs">
+      <DependentUpon>EdicionPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pacientes_\GestionPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Pacientes_\GestionPacientes.Designer.cs">
+      <DependentUpon>GestionPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Permisos_\EdicionPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Permisos_\EdicionPermisos.Designer.cs">
+      <DependentUpon>EdicionPermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Permisos_\GestionPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Permisos_\GestionPermisos.Designer.cs">
+      <DependentUpon>GestionPermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Recetas_\EdicionRecetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Recetas_\EdicionRecetas.Designer.cs">
+      <DependentUpon>EdicionRecetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Recetas_\GestionRecetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Recetas_\GestionRecetas.Designer.cs">
+      <DependentUpon>GestionRecetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Responsable_pacientes\EdicionResponsable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Responsable_pacientes\EdicionResponsable.Designer.cs">
+      <DependentUpon>EdicionResponsable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Responsable_pacientes\GestionResponsable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Responsable_pacientes\GestionResponsable.Designer.cs">
+      <DependentUpon>GestionResponsable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Usuarios-\EdicionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Usuarios-\EdicionUsuario.Designer.cs">
+      <DependentUpon>EdicionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Usuarios-\GestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Usuarios-\GestionUsuarios.Designer.cs">
+      <DependentUpon>GestionUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\empleados.Designer.cs">
+      <DependentUpon>empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REP\CREmpleados.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CREmpleados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP\CRExpedientes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRExpedientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP\CRMedicinas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRMedicinas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUI\Consultas_\EdicionConsulta.resx">
+      <DependentUpon>EdicionConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Consultas_\GestionConsultas.resx">
+      <DependentUpon>GestionConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Doctores\EdicionDoctor.resx">
+      <DependentUpon>EdicionDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Doctores\GestionDoctores.resx">
+      <DependentUpon>GestionDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Empleadosss\EdicionEmpleado.resx">
+      <DependentUpon>EdicionEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Empleadosss\GestionEMpleados.resx">
+      <DependentUpon>GestionEMpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Especialidades\EdicionEspecialidades.resx">
+      <DependentUpon>EdicionEspecialidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Especialidades\GestionEspecialidades.resx">
+      <DependentUpon>GestionEspecialidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Existencias_\EdicionExistencia.resx">
+      <DependentUpon>EdicionExistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Existencias_\GestionExistencias.resx">
+      <DependentUpon>GestionExistencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\expedientes.resx">
+      <DependentUpon>expedientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\expedientes_recetas_\Edicionexpediente_recetas.resx">
+      <DependentUpon>Edicionexpediente_recetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\expedientes_recetas_\GestionExpedientes_Recetas.resx">
+      <DependentUpon>GestionExpedientes_Recetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Expedientes_\EdicionExpediente.resx">
+      <DependentUpon>EdicionExpediente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Expedientes_\GestionExpedientes.resx">
+      <DependentUpon>GestionExpedientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Fecha_Citas\EdicionCitas.resx">
+      <DependentUpon>EdicionCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Fecha_Citas\GestionFechaCitas.resx">
+      <DependentUpon>GestionFechaCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Grupos\EdicionGrupo.resx">
+      <DependentUpon>EdicionGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Grupos\GestionGrupos.resx">
+      <DependentUpon>GestionGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Medecinas\EdicionMedecina.resx">
+      <DependentUpon>EdicionMedecina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Medecinas\GestionMedecinas.resx">
+      <DependentUpon>GestionMedecinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\medicinas.resx">
+      <DependentUpon>medicinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Opciones\EdicionOpcion.resx">
+      <DependentUpon>EdicionOpcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Opciones\GestionOpciones.resx">
+      <DependentUpon>GestionOpciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Pacientes_\EdicionPaciente.resx">
+      <DependentUpon>EdicionPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Pacientes_\GestionPacientes.resx">
+      <DependentUpon>GestionPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Permisos_\EdicionPermisos.resx">
+      <DependentUpon>EdicionPermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Permisos_\GestionPermisos.resx">
+      <DependentUpon>GestionPermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Recetas_\EdicionRecetas.resx">
+      <DependentUpon>EdicionRecetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Recetas_\GestionRecetas.resx">
+      <DependentUpon>GestionRecetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Responsable_pacientes\EdicionResponsable.resx">
+      <DependentUpon>EdicionResponsable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Responsable_pacientes\GestionResponsable.resx">
+      <DependentUpon>GestionResponsable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Usuarios-\EdicionUsuario.resx">
+      <DependentUpon>EdicionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Usuarios-\GestionUsuarios.resx">
+      <DependentUpon>GestionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\empleados.resx">
+      <DependentUpon>empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP\CREmpleados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CREmpleados.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP\CRExpedientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CRExpedientes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP\CRMedicinas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CRMedicinas.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CacheManager\CacheManager.csproj">
+      <Project>{c4c13f73-e839-47e5-a996-2ac0f760f800}</Project>
+      <Name>CacheManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{ef1e9b0a-9b08-437a-812a-54a05329ae77}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="DAT\DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DAT\DataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAT\DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

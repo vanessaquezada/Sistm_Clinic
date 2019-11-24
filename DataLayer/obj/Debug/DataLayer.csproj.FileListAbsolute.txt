@@ -1,0 +1,73 @@
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\DataLayer\bin\Debug\DataLayer.dll
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\DataLayer\obj\Debug\DataLayer.dll
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\DataLayer\obj\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\DataLayer\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\DataLayer\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\DataLayer\obj\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\DataLayer\obj\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\DataLayer\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\DataLayer\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\DataLayer\obj\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\DataLayer\obj\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\DataLayer\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\DataLayer\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\DataLayer\obj\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\DataLayer\obj\Debug\DataLayer.pdb
+E:\DSII\Sistema 03-04\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\DSII\Sistema 03-04\DataLayer\obj\Debug\DataLayer.dll
+E:\DSII\Sistema 03-04\DataLayer\obj\Debug\DataLayer.pdb
+F:\Sistema 03-04\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\Sistema 03-04\DataLayer\obj\Debug\DataLayer.dll
+F:\Sistema 03-04\DataLayer\obj\Debug\DataLayer.pdb
+F:\Sistema 03-04\DataLayer\bin\Debug\DataLayer.dll
+F:\Sistema 03-04\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\DataLayer\obj\Debug\DataLayer.pdb

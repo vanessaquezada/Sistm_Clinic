@@ -1,0 +1,338 @@
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\bin\Debug\App.exe.config
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\bin\Debug\App.exe
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\bin\Debug\App.pdb
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.Properties.Resources.resources
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.csproj.GenerateResource.Cache
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.exe
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.pdb
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.Form1.resources
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\obj\Debug\App.PruebaSentencia.resources
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\bin\Debug\DataLayer.dll
+c:\users\docente\documents\visual studio 2013\Projects\Sistema\App\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\bin\Debug\App.exe.config
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.exe
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\bin\Debug\App.exe
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\bin\Debug\App.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.Form1.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.Properties.Resources.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.PruebaSentencia.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.Splash.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 13-03-17\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\App.exe.config
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.exe
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\App.exe
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\App.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.Form1.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.Properties.Resources.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.PruebaSentencia.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.Splash.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.Login.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\CacheManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\obj\Debug\App.Principal.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\SessionManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 20-03-17\App\bin\Debug\SessionManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\App.exe.config
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.exe
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\App.exe
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\App.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\SessionManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\CacheManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\SessionManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.Form1.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.Login.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.Principal.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.Properties.Resources.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.PruebaSentencia.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.Splash.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\ModGestionBasica.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\App\bin\Debug\ModGestionBasica.pdb
+E:\DSII\Sistema 03-04\App\bin\Debug\App.exe.config
+E:\DSII\Sistema 03-04\App\obj\Debug\App.exe
+E:\DSII\Sistema 03-04\App\obj\Debug\App.pdb
+E:\DSII\Sistema 03-04\App\bin\Debug\App.exe
+E:\DSII\Sistema 03-04\App\bin\Debug\App.pdb
+E:\DSII\Sistema 03-04\App\bin\Debug\CacheManager.dll
+E:\DSII\Sistema 03-04\App\bin\Debug\DataLayer.dll
+E:\DSII\Sistema 03-04\App\bin\Debug\ModGestionBasica.dll
+E:\DSII\Sistema 03-04\App\bin\Debug\SessionManager.dll
+E:\DSII\Sistema 03-04\App\bin\Debug\CacheManager.pdb
+E:\DSII\Sistema 03-04\App\bin\Debug\DataLayer.pdb
+E:\DSII\Sistema 03-04\App\bin\Debug\ModGestionBasica.pdb
+E:\DSII\Sistema 03-04\App\bin\Debug\SessionManager.pdb
+E:\DSII\Sistema 03-04\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\DSII\Sistema 03-04\App\obj\Debug\App.Form1.resources
+E:\DSII\Sistema 03-04\App\obj\Debug\App.Login.resources
+E:\DSII\Sistema 03-04\App\obj\Debug\App.Principal.resources
+E:\DSII\Sistema 03-04\App\obj\Debug\App.Properties.Resources.resources
+E:\DSII\Sistema 03-04\App\obj\Debug\App.PruebaSentencia.resources
+E:\DSII\Sistema 03-04\App\obj\Debug\App.Splash.resources
+E:\DSII\Sistema 03-04\App\obj\Debug\App.csproj.GenerateResource.Cache
+F:\Sistema 03-04\App\bin\Debug\App.exe.config
+F:\Sistema 03-04\App\obj\Debug\App.exe
+F:\Sistema 03-04\App\obj\Debug\App.pdb
+F:\Sistema 03-04\App\bin\Debug\App.exe
+F:\Sistema 03-04\App\bin\Debug\App.pdb
+F:\Sistema 03-04\App\bin\Debug\CacheManager.dll
+F:\Sistema 03-04\App\bin\Debug\DataLayer.dll
+F:\Sistema 03-04\App\bin\Debug\ModGestionBasica.dll
+F:\Sistema 03-04\App\bin\Debug\SessionManager.dll
+F:\Sistema 03-04\App\bin\Debug\CacheManager.pdb
+F:\Sistema 03-04\App\bin\Debug\DataLayer.pdb
+F:\Sistema 03-04\App\bin\Debug\ModGestionBasica.pdb
+F:\Sistema 03-04\App\bin\Debug\SessionManager.pdb
+F:\Sistema 03-04\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+F:\Sistema 03-04\App\obj\Debug\App.Form1.resources
+F:\Sistema 03-04\App\obj\Debug\App.Login.resources
+F:\Sistema 03-04\App\obj\Debug\App.Principal.resources
+F:\Sistema 03-04\App\obj\Debug\App.Properties.Resources.resources
+F:\Sistema 03-04\App\obj\Debug\App.PruebaSentencia.resources
+F:\Sistema 03-04\App\obj\Debug\App.Splash.resources
+F:\Sistema 03-04\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\App.exe.config
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\App.exe
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\App.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\CacheManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\DataLayer.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\SessionManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\CacheManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\DataLayer.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\bin\Debug\SessionManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.Form1.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.Login.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.Principal.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.Splash.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\App.exe.config
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.exe
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\App.exe
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\App.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\CacheManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\DataLayer.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\SessionManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\CacheManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\DataLayer.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\bin\Debug\SessionManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.Form1.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.Login.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.Principal.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.Splash.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\App.exe.config
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\App.exe
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\App.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\SessionManager.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\bin\Debug\SessionManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.Form1.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.Login.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.Principal.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.PruebaSentencia.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.Splash.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\App\obj\Debug\App.csproj.GenerateResource.Cache

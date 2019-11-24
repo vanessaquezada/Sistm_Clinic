@@ -1,0 +1,391 @@
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\bin\Debug\CacheManager.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\bin\Debug\DataLayer.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\bin\Debug\CacheManager.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\bin\Debug\DataLayer.pdb
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+E:\DOCS\Universidad de Sonsonate\Sistema 27-03\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+E:\DSII\Sistema 03-04\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+E:\DSII\Sistema 03-04\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+E:\DSII\Sistema 03-04\ModGestionBasica\bin\Debug\CacheManager.dll
+E:\DSII\Sistema 03-04\ModGestionBasica\bin\Debug\DataLayer.dll
+E:\DSII\Sistema 03-04\ModGestionBasica\bin\Debug\CacheManager.pdb
+E:\DSII\Sistema 03-04\ModGestionBasica\bin\Debug\DataLayer.pdb
+E:\DSII\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+E:\DSII\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+E:\DSII\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+E:\DSII\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+E:\DSII\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+E:\DSII\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+F:\Sistema 03-04\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+F:\Sistema 03-04\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+F:\Sistema 03-04\ModGestionBasica\bin\Debug\CacheManager.dll
+F:\Sistema 03-04\ModGestionBasica\bin\Debug\DataLayer.dll
+F:\Sistema 03-04\ModGestionBasica\bin\Debug\CacheManager.pdb
+F:\Sistema 03-04\ModGestionBasica\bin\Debug\DataLayer.pdb
+F:\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+F:\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+F:\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+F:\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+F:\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+F:\Sistema 03-04\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Proyecto_dS\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\FRAN\Sistema 03-04 - copia\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\FRAN\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\ÉverArmando\Desktop\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\Stanley\Desktop\Proyecto Desarrolo de Software2\Triple-R\Triple R\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Vanessa\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.EdicionConsulta.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.GestionConsultas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.Edicionexpediente_recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.GestionExpediente_Recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.EdicionExpediente.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.GestionExpedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.EdicionCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.GestionFechaCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.EdicionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.GestionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.EdicionConsulta.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.GestionConsultas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.Edicionexpediente_recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.GestionExpediente_Recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.EdicionExpediente.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.GestionExpedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.EdicionCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.GestionFechaCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.EdicionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.GestionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.EdicionConsulta.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.GestionConsultas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.Edicionexpediente_recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.GestionExpediente_Recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.EdicionExpediente.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.GestionExpedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.EdicionCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.GestionFechaCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.EdicionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.GestionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.REP.empleados.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.medicinas.resources
+C:\Users\vanes\Desktop\COMPLETO\COMPLETOooooo\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.expedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.EdicionConsulta.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.GestionConsultas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.expedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.Edicionexpediente_recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.GestionExpediente_Recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.EdicionExpediente.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.GestionExpedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.EdicionCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.GestionFechaCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.medicinas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.EdicionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.GestionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.REP.empleados.resources
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\defe\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\bin\Debug\ModGestionBasica.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\bin\Debug\CacheManager.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\bin\Debug\DataLayer.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\bin\Debug\CacheManager.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\bin\Debug\DataLayer.pdb
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.EdicionConsulta.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Consultas_.GestionConsultas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.EdicionDoctor.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Doctores.GestionDoctores.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.EdicionEmpleado.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Empleadosss.GestionEMpleados.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.EdicionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Especialidades.GestionEspecialidades.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.EdicionExistencia.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Existencias_.GestionExistencias.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.expedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.Edicionexpediente_recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.expedientes_recetas_.GestionExpediente_Recetas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.EdicionExpediente.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Expedientes_.GestionExpedientes.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.EdicionCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Fecha_Citas.GestionFechaCitas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.EdicionGrupo.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.GestionGrupos.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.EdicionMedecina.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Medecinas.GestionMedecinas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.GUI.medicinas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.EdicionOpcion.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Opciones.GestionOpciones.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.EdicionPaciente.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Pacientes_.GestionPacientes.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.EdicionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Permisos_.GestionPermisos.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.EdicionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Recetas_.GestionRecetas.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Properties.Resources.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.EdicionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Responsable_pacientes.GestionResponsable.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.EdicionUsuario.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.Usuarios_.GestionUsuarios.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.REP.empleados.resources
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.dll
+C:\Users\vanes\Desktop\COMPLETO\VALIDACIONES\Sistema_\ModGestionBasica\obj\Debug\ModGestionBasica.pdb
